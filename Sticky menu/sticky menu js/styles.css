@@ -39,7 +39,8 @@ p {
 
 .tabs-container {
   position: absolute;
-  bottom: 0;
+  top: 10px;
+  left: 0;
   display: flex;
   width: 100%;
   height: 70px;
